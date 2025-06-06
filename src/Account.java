@@ -31,7 +31,7 @@ public class Account {
 
     public void showCurrentAmountOfFunds()
     {
-        System.out.print("You Have "+ amountFunds+"$ on this account");
+        System.out.println("You Have "+ amountFunds+"$ on this account");
     }
 
     public int getAccountID() {
